@@ -10,7 +10,8 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Starter.ShowArrays();
+            // Starter.ShowArrays();
+            ArraySorting.ShowArraySorting();
 
             Console.ReadLine();
         }
