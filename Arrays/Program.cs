@@ -11,7 +11,8 @@ namespace Arrays
         static void Main(string[] args)
         {
             // Starter.ShowArrays();
-            ArraySorting.ShowArraySorting();
+            // ArraySorting.ShowArraySorting();
+            ArrayReversal.ShowArrayReversal();
 
             Console.ReadLine();
         }
