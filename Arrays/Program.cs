@@ -12,7 +12,8 @@ namespace Arrays
         {
             // Starter.ShowArrays();
             // ArraySorting.ShowArraySorting();
-            ArrayReversal.ShowArrayReversal();
+            // ArrayReversal.ShowArrayReversal();
+            ArrayClearing.ShowArrayClearing();
 
             Console.ReadLine();
         }
