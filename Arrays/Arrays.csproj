@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayClearing.cs" />
+    <Compile Include="ArrayIndexOf.cs" />
     <Compile Include="ArrayReversal.cs" />
     <Compile Include="ArraySorting.cs" />
     <Compile Include="Program.cs" />

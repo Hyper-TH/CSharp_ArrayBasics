@@ -13,7 +13,8 @@ namespace Arrays
             // Starter.ShowArrays();
             // ArraySorting.ShowArraySorting();
             // ArrayReversal.ShowArrayReversal();
-            ArrayClearing.ShowArrayClearing();
+            // ArrayClearing.ShowArrayClearing();
+            ArrayIndexOf.ShowArrayIndexOf();
 
             Console.ReadLine();
         }
