@@ -15,7 +15,8 @@ namespace Arrays
             // ArrayReversal.ShowArrayReversal();
             // ArrayClearing.ShowArrayClearing();
             // ArrayIndexOf.ShowArrayIndexOf();
-            Lists.ShowLists();
+            // Lists.ShowLists();
+            Dictionaries.ShowDictionary();
 
             Console.ReadLine();
         }

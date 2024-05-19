@@ -47,6 +47,7 @@
     <Compile Include="ArrayIndexOf.cs" />
     <Compile Include="ArrayReversal.cs" />
     <Compile Include="ArraySorting.cs" />
+    <Compile Include="Dictionaries.cs" />
     <Compile Include="Lists.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
