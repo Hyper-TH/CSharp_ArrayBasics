@@ -17,7 +17,8 @@ namespace Arrays
             // ArrayIndexOf.ShowArrayIndexOf();
             // Lists.ShowLists();
             // Dictionaries.ShowDictionary();
-            OddEvenSplit.ShowSplit();
+            // OddEvenSplit.ShowSplit();
+            Multiples.ShowMultiples();
 
             Console.ReadLine();
         }
